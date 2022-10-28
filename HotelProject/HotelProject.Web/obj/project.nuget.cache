@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w3xl1OHDp0BCL5xCBz8GLYvkZsAB6oYBj1SHtmcVV2Xp6xihZdeJoNJv1W7lr24aijt+9vn8zIHBeCT1TqjxHg==",
+  "dgSpecHash": "yDXC56JGfQX4hIvBZwTpg0JWAuNvux7P2kL+EviwDdMJVXw/qT/y1zH/ax0LLl3Vzxcll6pdn4CdcVCN2OCFMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Web\\HotelProject.Web.csproj",
+  "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Web\\HotelProject.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

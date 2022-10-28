@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj": {}
+    "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj",
         "projectName": "HotelProject.Models",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Models\\HotelProject.Models.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Models\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

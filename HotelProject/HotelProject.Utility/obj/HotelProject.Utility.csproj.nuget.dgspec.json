@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj": {}
+    "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj": {
+    "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj",
         "projectName": "HotelProject.Utility",
-        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj",
+        "projectPath": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Utility\\HotelProject.Utility.csproj",
         "packagesPath": "C:\\Users\\digdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\angAuthDotNetLP\\HotelProject\\HotelProject.Utility\\obj\\",
+        "outputPath": "C:\\Users\\digdr\\Documents\\coding\\HotelMVC\\HotelProject\\HotelProject.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digdr\\AppData\\Roaming\\NuGet\\NuGet.Config",
