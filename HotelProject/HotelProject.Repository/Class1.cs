@@ -1,4 +1,4 @@
-﻿namespace HotelProject.ViewModels
+﻿namespace HotelProject.Repository
 {
     public class Class1
     {
